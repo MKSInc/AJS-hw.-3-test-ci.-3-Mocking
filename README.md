@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/5cnna51vyih2wp1h?svg=true)](https://ci.appveyor.com/project/MKSInc/ajs-hw-3-test-ci-3-mocking)
+
 # 3. Домашнее задание к лекции «Unit-тестирование»
 
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
